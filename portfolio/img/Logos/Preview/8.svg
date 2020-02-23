@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   sodipodi:docname="8.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1353">
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:37.79527664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect1355"
+         width="793.75024"
+         height="446.4845"
+         x="-7126.6514"
+         y="308.52582" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="674"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.28136957"
+     inkscape:cx="626.78795"
+     inkscape:cy="588.32126"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <sodipodi:guide
+       position="0,1080"
+       orientation="1080,0"
+       id="guide819"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1920"
+       id="guide821"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1920,0"
+       orientation="-1080,0"
+       id="guide823"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1920,1080"
+       orientation="0,-1920"
+       id="guide825"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="472.46017,811.26938"
+       orientation="543.54916,0"
+       id="guide829"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="472.46017,267.72021"
+       orientation="0,965.86075"
+       id="guide831"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1438.3209,267.72021"
+       orientation="-543.54916,0"
+       id="guide833"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1438.3209,811.26938"
+       orientation="0,-965.86075"
+       id="guide835"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g982"
+     transform="matrix(2.4188969,0,0,2.4188969,17238.635,-746.29214)"
+     style="stroke-width:1.56250036"
+     clip-path="url(#clipPath1353)">
+    <rect
+       y="308.52582"
+       x="-7126.6514"
+       height="793.75"
+       width="793.75"
+       id="rect860"
+       style="opacity:1;fill:#ffdf00;fill-opacity:1;stroke:none;stroke-width:15.62500572;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <path
+       id="rect916"
+       d="m -7126.6516,308.52583 v 44.09705 h 44.0971 v -44.09705 z m 44.0971,44.09705 v 44.09705 h -44.0971 v 44.09757 h 44.0971 v -44.09705 h 44.0975 v 44.09705 h 44.0971 v -44.09705 h 44.097 v 44.09705 h -44.097 v 44.09705 h 44.097 v 44.09705 h -44.097 v 44.09705 h 44.097 v 44.09756 h -44.097 v 44.097 h 44.097 v 44.0971 h -44.097 v 44.0971 h 44.097 v 44.0975 h -44.097 v 44.0971 h 44.097 v 44.097 h -44.097 v 44.0971 h 44.097 v 44.097 h -44.097 v -44.097 h -44.0971 v 44.097 h -44.0975 v -44.097 h -44.0971 v 44.0975 h 44.0971 v 44.09709 h 44.0975 v -44.09709 h 44.0971 v 44.09709 h 44.097 v 44.097 h -44.097 v 44.0971 h 44.0975 v -44.0971 h 44.0971 v -44.097 h -44.0971 v -44.09709 h 44.0971 v 44.09709 h 44.097 v -44.09709 h 44.0971 v -44.0975 h -44.0971 v 44.097 h -44.097 v -44.097 h -44.0971 v -44.0971 h 44.0971 v -44.097 h -44.0971 v -44.0971 h 44.0971 v -44.0975 h -44.0971 v -44.0971 h 44.0971 v -44.0971 h -44.0971 v -44.097 h 44.0971 v -44.09756 h -44.0971 V 529.0116 h 44.0971 v -44.09705 h -44.0971 V 440.8175 h 44.0971 v -44.09705 h 44.097 v 44.09705 h 44.0971 v -44.09757 h -44.0971 v -44.09705 h -44.097 v 44.09705 h -44.0971 v -44.09705 h 44.0971 v -44.09705 h -44.0976 v 44.09705 h -44.097 v 44.09705 h -44.0971 v -44.09705 z m 44.0975,0 h 44.0971 v -44.09705 h -44.0971 z m 176.3887,0 h 44.0971 v -44.09705 h -44.0971 z m 0,88.19462 h -44.097 v 44.09705 h 44.097 z m 0,44.09705 v 44.09705 h 44.0971 v -44.09705 z m 0,44.09705 h -44.097 v 44.09705 h 44.097 z m 0,44.09705 v 44.09756 h 44.0971 v -44.09756 z m 0,44.09756 h -44.097 v 44.097 h 44.097 z m 0,44.097 v 44.0971 h 44.0971 v -44.0971 z m 0,44.0971 h -44.097 v 44.0971 h 44.097 z m 0,44.0971 v 44.0975 h 44.0971 v -44.0975 z m 0,44.0975 h -44.097 v 44.0971 h 44.097 z m 0,44.0971 v 44.097 h 44.0971 v -44.097 z m 0,44.097 h -44.097 v 44.0971 h 44.097 z m 0,132.29169 v 44.097 h 44.0971 v -44.097 z m 0,44.097 h -44.097 v 44.0971 h 44.097 z m -132.2916,0 v -44.097 h -44.0971 v 44.097 z m -44.0971,0 h -44.0975 v 44.0971 h 44.0975 z m -44.0975,0 v -44.097 h -44.0971 v 44.097 z m 0,-132.29159 h 44.0975 v -44.0971 h -44.0975 z m 0,-44.0971 v -44.097 h -44.0971 v 44.097 z m 0,-44.097 h 44.0975 v -44.0971 h -44.0975 z m 0,-44.0971 v -44.0975 h -44.0971 v 44.0975 z m 0,-44.0975 h 44.0975 v -44.0971 h -44.0975 z m 0,-44.0971 v -44.0971 h -44.0971 v 44.0971 z m 0,-44.0971 h 44.0975 v -44.097 h -44.0975 z m 0,-44.097 v -44.09756 h -44.0971 v 44.09756 z m 0,-44.09756 h 44.0975 V 529.0116 h -44.0975 z m 0,-44.09705 v -44.09705 h -44.0971 v 44.09705 z m 0,-44.09705 h 44.0975 V 440.8175 h -44.0975 z m 44.0975,0 v 44.09705 h 44.0971 v -44.09705 z m 0,88.1941 v 44.09756 h 44.0971 v -44.09756 z m 0,88.19456 v 44.0971 h 44.0971 v -44.0971 z m 0,88.1942 v 44.0975 h 44.0971 v -44.0975 z m 0,88.1946 v 44.097 h 44.0971 v -44.097 z m 264.5834,-529.16618 v 44.09705 h 44.097 v -44.09705 z m 44.097,44.09705 v 44.09705 h -44.097 v -44.09705 h -44.0971 v 44.09757 h 44.0971 v 44.09705 h 44.097 v -44.09705 h 44.097 v 44.09705 h 44.0976 v -44.09705 h 44.0971 v 44.09705 h 44.097 v -44.09705 h 44.0976 v 44.09705 h 44.097 v -44.09705 h 44.0971 v 44.09705 h 44.0976 v -44.09705 h 44.097 v -44.09757 h -44.097 v 44.09705 h -44.0976 v -44.09705 h -44.0971 v 44.09705 h -44.097 v -44.09705 h -44.0976 v 44.09705 h -44.097 v -44.09705 h -44.0971 v 44.09705 h -44.0976 v -44.09705 z m 44.097,0 h 44.0976 v -44.09705 h -44.0976 z m 88.1947,0 h 44.097 v -44.09705 h -44.097 z m 88.1946,0 h 44.097 v -44.09705 h -44.097 z m 88.1941,0 h 44.0976 v -44.09705 h -44.0976 z m 44.0976,88.19462 v 44.09705 h 44.097 V 440.8175 Z m 0,44.09705 h -44.0976 v 44.09705 h 44.0976 z m 0,44.09705 v 44.09705 h 44.097 V 529.0116 Z m 0,44.09705 h -44.0976 v 44.09756 h 44.0976 z m 0,44.09756 v 44.097 h 44.097 v -44.097 z m 0,44.097 h -44.0976 v 44.0971 h 44.0976 z m 0,44.0971 v 44.0971 h 44.097 v -44.0971 z m 0,44.0971 h -44.0976 v 44.0975 h 44.0976 z m 0,44.0975 v 44.0971 h 44.097 v -44.0971 z m 0,44.0971 h -44.0976 v 44.097 h 44.0976 z m 0,44.097 v 44.0971 h 44.097 v -44.0971 z m 0,44.0971 h -44.0976 v 44.097 h -44.0971 v -44.097 h -44.097 v 44.097 h -44.0976 v -44.097 h -44.097 v 44.097 h -44.0971 v -44.097 h -44.0976 v 44.097 h -44.097 v -44.097 h -44.097 v 44.097 h -44.0971 v 44.09759 h 44.0971 v -44.09709 h 44.097 v 44.09709 h 44.097 v -44.09709 h 44.0976 v 44.09709 h 44.0971 v -44.09709 h 44.097 v 44.09709 h 44.0976 v -44.09709 h 44.097 v 44.09709 h 44.0971 v -44.09709 h 44.0976 v 44.09709 h 44.097 v -44.09759 h -44.097 z m 0,88.19459 h -44.0976 v 44.097 h 44.0976 z m 0,44.097 v 44.0971 h 44.097 v -44.0971 z m -44.0976,0 h -44.0971 v 44.0971 h 44.0971 z m -44.0971,0 v -44.097 h -44.097 v 44.097 z m -44.097,0 h -44.0976 v 44.0971 h 44.0976 z m -44.0976,0 v -44.097 h -44.097 v 44.097 z m -44.097,0 h -44.0971 v 44.0971 h 44.0971 z m -44.0971,0 v -44.097 h -44.0976 v 44.097 z m -44.0976,0 h -44.097 v 44.0971 h 44.097 z m -44.097,0 v -44.097 h -44.097 v 44.097 z m -44.097,0 h -44.0971 v 44.0971 h 44.0971 z m 0,-132.29159 v -44.0971 h -44.0971 v 44.0971 z m 0,-44.0971 h 44.097 v -44.097 h -44.097 z m 0,-44.097 v -44.0971 h -44.0971 v 44.0971 z m 0,-44.0971 h 44.097 v -44.0975 h -44.097 z m 0,-44.0975 v -44.0971 h -44.0971 v 44.0971 z m 0,-44.0971 h 44.097 v -44.0971 h -44.097 z m 0,-44.0971 v -44.097 h -44.0971 v 44.097 z m 0,-44.097 h 44.097 v -44.09756 h -44.097 z m 0,-44.09756 V 529.0116 h -44.0971 v 44.09705 z m 0,-44.09705 h 44.097 v -44.09705 h -44.097 z m 0,-44.09705 V 440.8175 h -44.0971 v 44.09705 z m 44.097,0 h 44.097 V 440.8175 h -44.097 z m 44.097,0 v 44.09705 h 44.0976 v -44.09705 z m 44.0976,0 h 44.0971 V 440.8175 h -44.0971 z m 44.0971,0 v 44.09705 h 44.097 v -44.09705 z m 44.097,0 h 44.0976 V 440.8175 h -44.0976 z m 44.0976,0 v 44.09705 h 44.097 v -44.09705 z m 44.097,0 h 44.0971 V 440.8175 h -44.0971 z m 0,44.09705 v 44.09705 h 44.0971 V 529.0116 Z m 0,44.09705 h -44.097 v 44.09756 h 44.097 z m 0,44.09756 v 44.097 h 44.0971 v -44.097 z m 0,44.097 h -44.097 v 44.0971 h 44.097 z m 0,44.0971 v 44.0971 h 44.0971 v -44.0971 z m 0,44.0971 h -44.097 v 44.0975 h 44.097 z m 0,44.0975 v 44.0971 h 44.0971 v -44.0971 z m 0,44.0971 h -44.097 v 44.097 h 44.097 z m 0,44.097 v 44.0971 h 44.0971 v -44.0971 z m -44.097,0 h -44.0976 v 44.0971 h 44.0976 z m -44.0976,0 v -44.097 h -44.097 v 44.097 z m -44.097,0 h -44.0971 v 44.0971 h 44.0971 z m -44.0971,0 v -44.097 h -44.0976 v 44.097 z m -44.0976,0 h -44.097 v 44.0971 h 44.097 z m 0,-44.097 v -44.0971 h -44.097 v 44.0971 z m 0,-44.0971 h 44.0976 v -44.0975 h -44.0976 z m 0,-44.0975 v -44.0971 h -44.097 v 44.0971 z m 0,-44.0971 h 44.0976 v -44.0971 h -44.0976 z m 0,-44.0971 v -44.097 h -44.097 v 44.097 z m 0,-44.097 h 44.0976 v -44.09756 h -44.0976 z m 0,-44.09756 V 529.0116 h -44.097 v 44.09705 z m 44.0976,0 h 44.0971 V 529.0116 h -44.0971 z m 44.0971,0 v 44.09756 h 44.097 v -44.09756 z m 44.097,0 h 44.0976 V 529.0116 h -44.0976 z m 0,44.09756 v 44.097 h 44.0976 v -44.097 z m 0,44.097 h -44.097 v 44.0971 h 44.097 z m 0,44.0971 v 44.0971 h 44.0976 v -44.0971 z m 0,44.0971 h -44.097 v 44.0975 h 44.097 z m 0,44.0975 v 44.0971 h 44.0976 v -44.0971 z m -44.097,0 h -44.0971 v 44.0971 h 44.0971 z m 0,-44.0975 v -44.0971 h -44.0971 v 44.0971 z m 0,-88.1942 v -44.097 h -44.0971 v 44.097 z"
+       style="opacity:0.35;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:25.82464218;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64.25196838;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 1110.8507,268.73067 -55.1719,42.91037 -15.2016,11.82505 23.6501,30.40255 8.2057,-6.38132 V 575.1601 l -13.4014,-8.51835 -18.21,-11.57324 v -61.32758 l 2.7124,-4.69996 -2.7124,1.56663 V 331.03713 l -164.88139,164.87713 74.10448,47.09968 -89.84643,51.87132 30.35913,-52.58321 -181.56439,48.64904 v 76.56463 l -178.21294,-308.68119 -35.28467,14.61296 65.84115,245.73771 4.98927,18.60115 37.20326,-9.96686 -4.9832,-18.60452 -27.98062,-104.43236 176.94704,306.48681 V 620.50833 l 63.19243,-16.93139 -55.74421,96.54623 183.34033,-105.84915 -16.86516,29.20845 119.38592,119.38604 V 600.70939 l 13.8021,8.77594 17.8093,-28.01857 v 125.86102 l 124.196,-97.9888 v 50.08342 l 99.1846,-26.57508 -36.0951,36.09342 -13.6173,13.61766 27.2341,27.23881 13.6229,-13.61766 137.7461,-137.75165 -189.5561,50.79177 v -79.33632 l -124.1975,97.98534 z m 85.6783,137.92503 v 103.61027 h 38.5192 v -36.89181 l 80.6241,46.54719 19.2602,-33.35921 z m -194.3267,17.37047 v 88.81928 l -14.62628,8.44353 -50.52574,-32.1111 z m -285.97489,41.09542 -52.08003,90.20816 33.35848,19.26023 52.08,-90.20937 z m 279.31443,106.87008 6.66046,4.23521 v 73.6491 l -32.73309,-32.73054 z m -147.55474,105.35858 -73.89805,42.66551 19.26039,33.35925 16.11838,-9.30646 v 35.67419 l 94.71731,-54.68626 -19.2589,-33.35921 -36.93913,21.33046 z"
+     id="path898"
+     inkscape:connector-curvature="0" />
+</svg>

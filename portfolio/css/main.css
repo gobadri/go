@@ -1,0 +1,197 @@
+@import url("https://fonts.googleapis.com/css?family=Cairo&display=swap");
+body {
+  background: #e8e8e8;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  height: 100vh;
+  font-family: cairo;
+}
+
+#overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(../img/overlay.svg);
+  opacity: .1;
+  z-index: -1;
+}
+
+header {
+  width: 100%;
+  height: 15%;
+  position: absolute;
+  text-align: center;
+  justify-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 1.5em;
+  padding: 1em;
+  z-index: 10;
+}
+
+header .container {
+  width: 250px;
+  height: 40px;
+  position: relative;
+  display: inline-block;
+  background: #1c1f24;
+  border-radius: 50px;
+  top: .5em;
+  right: 0;
+  left: 0;
+}
+
+header .container .nav {
+  list-style: none;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  position: relative;
+}
+
+header .container a {
+  color: white;
+  font-size: .75em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header .container .about {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 1;
+  grid-column: 1/2;
+  position: relative;
+  display: inline;
+  justify-items: center;
+  top: -8em;
+  left: -1.5em;
+}
+
+header .container .portfolio {
+  grid-column: end;
+  position: relative;
+  display: inline;
+  justify-items: center;
+  top: -8em;
+  right: 1em;
+}
+
+header .container .portfolio a {
+  color: #65686d;
+}
+
+header .container img {
+  width: 75px;
+  position: relative;
+  display: inline-block;
+  justify-items: center;
+  top: -1.5em;
+}
+
+@media (min-width: 500px) {
+  header .container {
+    width: 350px;
+  }
+  header a {
+    font-size: 1.2em;
+  }
+  header .nav > .portfolio {
+    right: 2.2em;
+  }
+}
+
+@media (min-width: 750px) {
+  header .container {
+    width: 350px;
+  }
+  header .nav > a {
+    font-size: 2em;
+  }
+  header .nav > .portfolio {
+    right: 3em;
+  }
+}
+
+section {
+  padding-top: 150px;
+  padding-left: 50px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bolder;
+  line-height: 30px;
+  color: #1c1f24;
+  top: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 16px;
+  color: #1c1f24;
+}
+
+strong {
+  font-size: 18px;
+  font-weight: bolder;
+  line-height: 10px;
+  color: #1c1f24;
+}
+
+main {
+  display: -ms-grid;
+  display: grid;
+  z-index: 4;
+  -ms-grid-columns: (minmax(19rem, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+  grid-gap: 1em;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 25px;
+  padding-right: 10px;
+}
+
+main .cadr {
+  background: white;
+  border-radius: 10px;
+  -webkit-transition: -webkit-transform .5s;
+  transition: -webkit-transform .5s;
+  transition: transform .5s;
+  transition: transform .5s, -webkit-transform .5s;
+}
+
+main .cadr:hover {
+  -webkit-transform: scale(1.07, 1.07);
+          transform: scale(1.07, 1.07);
+  -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+main .cadr img {
+  width: 100%;
+}
+
+main .cadr .info {
+  padding: 1rem;
+}
+
+main .cadr .info strong {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+main .cadr .info p {
+  font-size: 14px;
+  line-height: 15px;
+}
+/*# sourceMappingURL=main.css.map */

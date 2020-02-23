@@ -1,0 +1,337 @@
+@import url("https://fonts.googleapis.com/css?family=Cairo&display=swap");
+body {
+  background: #e8e8e8;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  height: 100vh;
+  font-family: cairo;
+}
+
+#overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(../img/overlay.svg);
+  opacity: .1;
+  z-index: -1;
+}
+
+header {
+  width: 100%;
+  height: 15%;
+  position: absolute;
+  text-align: center;
+  justify-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 1.5em;
+  padding: 1em;
+  z-index: 10;
+}
+
+header .container {
+  width: 250px;
+  height: 40px;
+  position: relative;
+  display: inline-block;
+  background: #1c1f24;
+  border-radius: 50px;
+  top: .5em;
+  right: 0;
+  left: 0;
+}
+
+header .container .nav {
+  list-style: none;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  position: relative;
+}
+
+header .container a {
+  color: white;
+  font-size: .75em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header .container .about {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 1;
+  grid-column: 1/2;
+  position: relative;
+  display: inline;
+  justify-items: center;
+  top: -8em;
+  left: -1.5em;
+}
+
+header .container .about a {
+  color: #65686d;
+}
+
+header .container .portfolio {
+  grid-column: end;
+  position: relative;
+  display: inline;
+  justify-items: center;
+  top: -8em;
+  right: 1em;
+}
+
+header .container img {
+  width: 75px;
+  position: relative;
+  display: inline-block;
+  justify-items: center;
+  top: -1.5em;
+}
+
+@media (min-width: 500px) {
+  header .container {
+    width: 350px;
+  }
+  header a {
+    font-size: 1.2em;
+  }
+  header .nav > .portfolio {
+    right: 2.2em;
+  }
+}
+
+@media (min-width: 750px) {
+  header .container {
+    width: 350px;
+  }
+  header .nav > a {
+    font-size: 2em;
+  }
+  header .nav > .portfolio {
+    right: 3em;
+  }
+}
+
+.slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: -1;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bolder;
+  line-height: 30px;
+  color: #1c1f24;
+  top: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 16px;
+  color: #1c1f24;
+}
+
+strong {
+  font-size: 18px;
+  font-weight: bolder;
+  line-height: 10px;
+  color: #1c1f24;
+}
+
+main {
+  display: -ms-grid;
+  display: grid;
+  z-index: 4;
+  -ms-grid-columns: 40% 1fr;
+      grid-template-columns: 40% 1fr;
+  grid-gap: 1em;
+  padding-top: 200px;
+  padding-bottom: 100px;
+  padding-left: 25px;
+  padding-right: 10px;
+}
+
+main .cadr {
+  background: white;
+  border-radius: 10px;
+  -webkit-transition: -webkit-transform .5s;
+  transition: -webkit-transform .5s;
+  transition: transform .5s;
+  transition: transform .5s, -webkit-transform .5s;
+}
+
+main .cadr .contact {
+  z-index: 1;
+}
+
+main .cadr .contact h1 {
+  font-size: 7em;
+  font-weight: bolder;
+  color: #e8e8e8;
+}
+
+main .cadr .info {
+  padding-left: 1rem;
+  z-index: 4;
+}
+
+main .cadr .info strong {
+  font-size: 22px;
+  font-weight: bolder;
+  line-height: 20px;
+}
+
+main .cadr .info .contact-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+main .cadr .info .contact-item img {
+  width: 20px;
+  padding-right: 5px;
+}
+
+main .cadr .info .contact-item p {
+  color: #1c1f24;
+  padding-left: 15px;
+  font-size: 18px;
+  font-weight: bolder;
+  line-height: 16px;
+}
+
+main .cadr .info .contact-item-social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 15px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  z-index: 20;
+}
+
+main .cadr .info .contact-item-social img {
+  width: 30px;
+  padding: 10px;
+  background: #1c1f24;
+  border-radius: 5px;
+  margin: 10px;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  z-index: 21;
+}
+
+main .cadr .info .contact-item-social #f:hover {
+  background: #3b5998;
+  border-radius: 50px;
+  -webkit-transform: scale(1.5, 1.5);
+          transform: scale(1.5, 1.5);
+}
+
+main .cadr .info .contact-item-social #i:hover {
+  background: #c32aa3;
+  border-radius: 50px;
+  -webkit-transform: scale(1.5, 1.5);
+          transform: scale(1.5, 1.5);
+}
+
+main .cadr .info .contact-item-social #b:hover {
+  background: #053eff;
+  border-radius: 50px;
+  -webkit-transform: scale(1.5, 1.5);
+          transform: scale(1.5, 1.5);
+}
+
+main .cadr .info .contact-item-social #d:hover {
+  background: #ea4c89;
+  border-radius: 50px;
+  -webkit-transform: scale(1.5, 1.5);
+          transform: scale(1.5, 1.5);
+}
+
+main .cadrT {
+  margin-top: -8em;
+  background: none;
+  border-radius: 10px;
+  -webkit-transition: -webkit-transform .5s;
+  transition: -webkit-transform .5s;
+  transition: transform .5s;
+  transition: transform .5s, -webkit-transform .5s;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+main .cadrT .avatar {
+  position: absolute;
+  width: 102px;
+  height: 102px;
+  border: solid 2px #1c1f24;
+  border-radius: 100px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+main .cadrT .avatar img {
+  width: 100px;
+  border-radius: 50px;
+}
+
+main .cadrT .info {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main .cadrT .info .name {
+  text-align: center;
+  padding-top: 18em;
+}
+
+main .cadrT .info .name strong {
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+main .cadrT .info .desc {
+  width: 80%;
+  font-size: 1em;
+  text-align: justify;
+  padding-left: 3.5em;
+}
+/*# sourceMappingURL=main.css.map */
